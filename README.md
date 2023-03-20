@@ -139,8 +139,9 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![output][def.png]
 
+
+![india3](https://user-images.githubusercontent.com/93427581/226243242-83bce6f4-52a3-482f-af2b-b5292fb92d8f.png)
 
 
 
