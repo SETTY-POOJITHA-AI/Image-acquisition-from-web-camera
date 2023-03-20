@@ -139,7 +139,7 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![output](india3.png)
+![output][def.png]
 
 
 
@@ -147,3 +147,5 @@ cv2.destroyAllWindows()
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
+
+
